@@ -16,7 +16,7 @@
 
 1\. [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository. You can also use it as the structure to help keep your AoC code organized.
 
-2\. In your fork, create a folder within the puzzle-day named after yourself (e.g.`AoC2025/Day01/my-GH-username`)
+2\. In your fork, create a folder within the puzzle-day, and name it after yourself (e.g. `AoC2025/Day01/my-GH-username`)
 
 3\. Add your solution scripts to that folder (e.g. `AoC2025/Day01/my-GH-username/my-nice-solution.R`)
 

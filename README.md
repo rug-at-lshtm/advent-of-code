@@ -1,6 +1,6 @@
 ### LSHTM-RUG does Advent of Code.
 
-[Advent of code](https://adventofcode.com/2025/about) is a coding challenge with small programming puzzles to complete throughout December. The RUG leaderboard winners will receive a small R-related (but physical) gift for their dedication, and recognition at the first meeting of the year.
+[Advent of code](https://adventofcode.com/2025/about) is a coding challenge with small programming puzzles to complete throughout December. The RUG leaderboard winners and other superlative R-Users will receive a small R-related (but physical) gift for their dedication, and recognition at the first meeting of the year.
 
 **To participate:**
 

@@ -2,7 +2,7 @@
 
 [Advent of code](https://adventofcode.com/2025/about) is a coding challenge with small programming puzzles to complete throughout December. The RUG leaderboard winners will receive a small R-related (but physical) gift for their dedication, and recognition at the first meeting of the year.
 
-[**To participate:**]{.underline}
+**To participate:**
 
 1\. [Create an account on the AoC site](https://adventofcode.com/2025/auth/login)
 
@@ -12,7 +12,7 @@
 
 4\. Most stars on December 31st wins (this means you can complete all the puzzles at your own pace while hiding from your holiday duties!)
 
-[**To share your solutions:**]{.underline}
+**To share your solutions:**
 
 1\. [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository. You can also use it as the structure to help keep your AoC code organized.
 
@@ -24,7 +24,7 @@
 
 *It is important that you put your scripts within a personal folder to avoid conflicts and keep everything readable. Also, please [do not include the input.txt files](https://www.reddit.com/r/adventofcode/wiki/faqs/copyright/inputs/).*
 
-[**Tips**]{.underline}
+**Tips**
 
 \- Browse the [AoC site](https://adventofcode.com/2025/about) to get familiar with the format
 
